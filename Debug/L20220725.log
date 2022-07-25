@@ -1,6 +1,8 @@
 ﻿  Character.cpp
   Goblin.cpp
   main.cpp
+C:\work\L20220725\main.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\work\L20220725\main.cpp(162,21): warning C4018: '<': signed/unsigned mismatch
   Monster.cpp
   Player.cpp
   Slime.cpp

@@ -6,15 +6,11 @@ using namespace std;
 
 wild_boar::wild_boar()
 {
-	HP = 100;
-	X = 10;
-	Y = 10;
-	Gold = 0;
-
-	cout << "¸äµÅÁö »ý¼ºÀÚ" << endl;
+	name = "wild_boar";
+	cout << "wild_boar Constructer" << endl;
 }
 
 wild_boar::~wild_boar()
 {
-	cout << "¸äµÅÁö »ý¼ºÀÚ" << endl;
+	cout << "wild_boar Distructer" << endl;
 }

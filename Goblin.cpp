@@ -6,16 +6,12 @@ using namespace std;
 
 Goblin::Goblin()
 {
-	HP = 100;
-	X = 10;
-	Y = 10;
-	Gold = 0;
-
-	cout << "고블린 생성자" << endl;
+	name = "Goblin";
+	cout << "Goblin Constructor" << endl;
 }
 
 Goblin::~Goblin()
 {
-	cout << "고블린 생성자" << endl;
+	cout << "Goblin Disstructor" << endl;
 }
 

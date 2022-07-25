@@ -6,16 +6,12 @@ using namespace std;
 
 Slime::Slime()
 {
-	HP = 100;
-	X = 10;
-	Y = 10;
-	Gold = 0;
-
-	cout << "슬라임 생성자" << endl;
+	name = "Slime";
+	cout << "Slime Constructer" << endl;
 }
 
 Slime::~Slime()
 {
-	cout << "슬라임 생성자" << endl;
+	cout << "Slime Disstructer" << endl;
 }
 

@@ -5,6 +5,6 @@ class Goblin : public Monster
 {
 public:
 	Goblin();
-	~Goblin();
+	virtual~Goblin();
 };
 
