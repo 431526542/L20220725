@@ -1,16 +1,10 @@
 #pragma once
-class Monster
+#include"Character.h"
+
+class Monster : public Character
 {
 public:
 	Monster();
 	~Monster();
-
-	int HP;
-	int Gold;
-	int X;
-	int Y;
-
-	void Move();
-	void Attack();
 };
 

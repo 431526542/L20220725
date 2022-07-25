@@ -8,10 +8,3 @@ Monster::~Monster()
 {
 }
 
-void Monster::Move()
-{
-}
-
-void Monster::Attack()
-{
-}

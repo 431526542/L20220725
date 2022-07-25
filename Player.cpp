@@ -20,11 +20,6 @@ Player::~Player()
 	cout << "플레이어 제거자" << endl;
 }
 
-void Player::Move()
-{
-	cout << "플레이어 이동" << endl;
-}
-
 int Player::GetGold()
 {
 	return Gold;
@@ -37,7 +32,6 @@ void Player::SetGold(int NewGold)
 	Gold = NewGold;
 }
 
-void Player::Attack()
+void Player::RealMove()
 {
-	cout << "플레이어 공격" << endl;
 }

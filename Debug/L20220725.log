@@ -1,7 +1,9 @@
-﻿  goblin.cpp
+﻿  Character.cpp
+  Goblin.cpp
   main.cpp
+  Monster.cpp
   Player.cpp
   Slime.cpp
   wild_boar.cpp
   Generating Code...
-  L20220725.vcxproj -> C:\Users\이대솔\source\repos\L20220725\Debug\L20220725.exe
+  L20220725.vcxproj -> C:\work\L20220725\Debug\L20220725.exe

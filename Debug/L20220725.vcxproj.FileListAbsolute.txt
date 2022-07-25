@@ -1,1 +1,2 @@
 C:\Users\이대솔\source\repos\L20220725\Debug\L20220725.exe
+C:\work\L20220725\Debug\L20220725.exe
